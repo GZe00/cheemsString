@@ -17,6 +17,7 @@ function projectCheems(string){
 
 let cadenaDeTexto = "El cheemsificador de texto funciona";
 projectCheems(cadenaDeTexto);
+//Elm chmeemmsifmicamdorm dem temxtom fumncimona
 
 // //Ejemplos
     // console.log(string);
