@@ -6,7 +6,7 @@ function projectCheems(string){
     string = string.split("");
     for(let i = 0; i < string.length; i++){
         countM++;
-        if(countM === 3){
+        if(countM === 3){               //Que tan agresivo quieres tu cheems: 1 super agresivo, +5 tu cheems no tan agresivo
             countM = 0;
             stmtrminmg.push(powerCheem);
         }
